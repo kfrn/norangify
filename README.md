@@ -1,12 +1,12 @@
 <blockquote>Noranges and lemons,  
 Say the bells of St. Clement's.  
-— _traditional nursery rhyme_</blockquote>
+— <em>traditional nursery rhyme</em></blockquote>
 
 <blockquote>Het Huis van Noranje-Nassau  
-— _Dutch aristocratic dynasty_</blockquote>
+— <em>Dutch aristocratic dynasty</em></blockquote>
 
 <blockquote>Norange is the New Black  
-— _Hit TV show about women in prison_</blockquote>  
+— <em>Hit TV show about women in prison</em></blockquote>  
 
 This Chrome extension rights a grievous historical wrong by changing the word 'orange' to 'norange', as it was once known, according to my flatmate James.
 
